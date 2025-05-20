@@ -1,0 +1,21 @@
+Machine Learning Concepts
+
+1. Algorithms
+2. Concepts
+  2.1 What is curse of dimensionality
+  2.2 What is vias-Variance Trade Off
+
+2. Deep Learning
+  2.1 Computer vision
+    2.1.1 CNNs
+      2.1.1.1 What Are CNNS, How do they work Spelled Out
+      2.1.1.2 Vision Transformer Models
+  2.2 Natural Language Processing
+    2.2.1 Traditional Methods
+    2.2.2 Transformer
+      2.2.2.1 Transformer Spelled Out
+      2.2.2.2 Training Transformer at Scale
+      2.2.2.3 Hirarchial Transformers, Sliding Window attention etc
+      2.2.2.4 Reasoning Models
+      2.2.2.5 Rag Implimentation
+      2.2.2.6 MCP Implimentaton
